@@ -12,6 +12,7 @@
 - P6, le screen montre "enumerating 3 objects" alors qu'il y en a 5 sur le repo des étudiants
 - P12, pour la création des "Personnal Access Token", la bonne url est : https://gitlab.esiea.fr/-/user_settings/personal_access_tokens
 - P12, pour la création du repo "helloworld", laissez la case "readme" active
+- P13 : si vous avez des soucis en executant la commande `ssh -T git@gitlab.esiea.fr`, essayez de vous mettre en 4G !
 
 
 ## TP 3 - Rappels Java
