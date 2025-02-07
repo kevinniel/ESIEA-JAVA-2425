@@ -9,6 +9,7 @@
 - Ne pas supprimer le travail : vous en aurez besoin pour le TP2
 
 ## TP 2
+- P3, sur la gommande `git log`, certains caractères peuvent poser problème en cas de copier/coller
 - P6, le screen montre "enumerating 3 objects" alors qu'il y en a 5 sur le repo des étudiants
 - P12, pour la création des "Personnal Access Token", la bonne url est : https://gitlab.esiea.fr/-/user_settings/personal_access_tokens
 - P12, pour la création du repo "helloworld", laissez la case "readme" active
