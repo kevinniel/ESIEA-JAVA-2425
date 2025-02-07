@@ -14,6 +14,7 @@
 - P12, pour la création des "Personnal Access Token", la bonne url est : https://gitlab.esiea.fr/-/user_settings/personal_access_tokens
 - P12, pour la création du repo "helloworld", laissez la case "readme" active
 - P13 : si vous avez des soucis en executant la commande `ssh -T git@gitlab.esiea.fr`, essayez de vous mettre en 4G !
+- P14 : si une interface graphique s'ouvre en vous demandant un mot de passe, vous avez probablement cloner l'URL de votre repo en HTTP plutôt qu'en SSH !
 
 
 ## TP 3 - Rappels Java
