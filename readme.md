@@ -9,6 +9,7 @@
 - Ne pas supprimer le travail : vous en aurez besoin pour le TP2
 
 ## TP 2
+- P6, le screen montre "enumerating 3 objects" alors qu'il y en a 5 sur le repo des étudiants
 
 ## TP 3 - Rappels Java
 
