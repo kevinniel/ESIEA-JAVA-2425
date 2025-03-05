@@ -26,6 +26,7 @@
 # SOLID
 
 ## TP 6
+- Développez toutes vos classes dans un seul fichier "Orchestra" pour pouvoir tout soumettre facilement dans moodle pour le TP !
 
 ## TP 7
 
