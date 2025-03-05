@@ -28,7 +28,7 @@
 ## TP 6
 - Développez toutes vos classes dans un seul fichier "Orchestra" pour pouvoir tout soumettre facilement dans moodle pour le TP !
 - URL repo : https://gitlab.esiea.fr/felicia.ionascu/solidanddesignpatterns-2025/-/tree/main/src/main/java/fr/esiea/tools/solid?ref_type=heads
-- Sur l'exercice 1 : ne pas implémenter la classe "Music"
+- Ne pas implémenter la classe "Music", ce sont les tests dans Moodle qui vont exécuter les tests qui sont sensé être dedans !
 
 ## TP 7
 
