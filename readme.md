@@ -51,7 +51,7 @@
 Critère	| Interface	| Classe Abstraite
 --- | --- | ---
 Héritage multiple	| ✅ Oui | ❌ Non
-Implémentation par défaut |	❌ Non (sauf méthodes par défaut en C# 8) |	✅ Oui
+Implémentation par défaut |	❌ Non |	✅ Oui
 Définition d’un contrat |	✅ Oui |	✅ Oui
 Ajout de nouvelles méthodes sans casser l’existant | ❌ Non (risque de casser les implémentations existantes) |	✅ Oui (car les enfants héritent des nouvelles méthodes par défaut)
 Utilisation en tant que type parent |	✅ Oui | ✅ Oui
