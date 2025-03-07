@@ -33,6 +33,8 @@
 
 ## TP 7
 
+- n'oubliez pas de me mettre en tant que `maintaiiner` sur votre repo gitlab (`kevin.niel@ext.esiea.fr` ou `@kevin.niel`)
+
 # DESIGN PATTERNS
 
 ## TP 8
