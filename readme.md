@@ -7,6 +7,7 @@
 ## TP 1
 - "oubli" page 40 : il faut supprimer le tag "bugTag" (`git tag -d bugTag`) pour que le commit concerné n'apparaisse plus dans le `git log`
 - Ne pas supprimer le travail : vous en aurez besoin pour le TP2
+- COR - check git lol a la fin. 5pts en - par différence + -2pts pour le flag s'il est resté. Importance noms des commits.
 
 ## TP 2
 - P3, sur la gommande `git log`, certains caractères peuvent poser problème en cas de copier/coller
@@ -36,6 +37,7 @@
 ## TP 7
 
 - n'oubliez pas de me mettre en tant que `maintainer` sur votre repo gitlab (`kevin.niel@ext.esiea.fr` ou `@kevin.niel`)
+- COR : Barème sur doc des 4 attentes : 3 / 3 / 7 / 7
 
 # DESIGN PATTERNS
 
