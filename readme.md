@@ -17,7 +17,7 @@
 - P13 : si vous avez des soucis en executant la commande `ssh -T git@gitlab.esiea.fr`, essayez de vous mettre en 4G !
 - P14 : si une interface graphique s'ouvre en vous demandant un mot de passe, vous avez probablement cloner l'URL de votre repo en HTTP plutôt qu'en SSH !
 - LIVRABLES : faire les commandes log & reflog dans tous les dossiers. Les zipper tous dans un seul dossier et livrer ce dossier. Pensez à ajouter kévin niel au repo gitlab avec le rôle maintainer.
-- COR : check 4 repo, merge request fork, clone grocery
+- COR : check 5 repo, merge request fork, clone grocery
 
 ## TP 3 - Rappels Java
 
