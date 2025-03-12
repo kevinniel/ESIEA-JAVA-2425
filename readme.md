@@ -25,6 +25,7 @@
 - C'est bien kevin niel qu'il faut ajouter en maintainer !
 
 ## TP 5 - UnitTest
+- L'image "reference-grayscale" n'est pas bonne dans le TP de base. Remplacez là par celle qui est dans ce repository !
 
 # SOLID
 
